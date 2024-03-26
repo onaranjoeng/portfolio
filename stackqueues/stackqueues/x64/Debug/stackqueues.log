@@ -1,0 +1,6 @@
+﻿  in2post.cpp
+C:\Users\ogn23\source\repos\stackqueues\stackqueues\stack.hpp(70,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ogn23\source\repos\stackqueues\stackqueues\stack.hpp(68): message : while compiling class template member function 'int cop4530::Stack<std::string>::size(void) const'
+C:\Users\ogn23\source\repos\stackqueues\stackqueues\in2post.cpp(247): message : see reference to function template instantiation 'int cop4530::Stack<std::string>::size(void) const' being compiled
+C:\Users\ogn23\source\repos\stackqueues\stackqueues\in2post.cpp(214): message : see reference to class template instantiation 'cop4530::Stack<std::string>' being compiled
+  stackqueues.vcxproj -> C:\Users\ogn23\source\repos\stackqueues\x64\Debug\stackqueues.exe
