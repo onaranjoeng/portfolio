@@ -1,0 +1,4 @@
+﻿  bitvector.cpp
+C:\Users\ogn23\source\repos\main\main\bitvector.cpp(147,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ogn23\source\repos\main\main\bitvector.cpp(158,23): warning C4018: '<': signed/unsigned mismatch
+  main.vcxproj -> C:\Users\ogn23\source\repos\main\Debug\main.exe
