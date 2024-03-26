@@ -1,0 +1,7 @@
+﻿  main.cpp
+  student.cpp
+C:\Users\ogn23\OneDrive - Florida State Students\COP3330\student.cpp(22,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ogn23\OneDrive - Florida State Students\COP3330\student.cpp(23,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  StudentList.cpp
+C:\Users\ogn23\source\repos\StudentList\StudentList\StudentList.cpp(11,10): fatal error C1083: Cannot open include file: 'studentlist.h': No such file or directory
+  Generating Code...

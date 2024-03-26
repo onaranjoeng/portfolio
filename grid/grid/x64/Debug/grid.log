@@ -1,0 +1,4 @@
+﻿  grid.cpp
+C:\Users\ogn23\source\repos\grid\grid\grid.cpp(137,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ogn23\source\repos\grid\grid\grid.cpp(385): warning C4715: 'Grid::Move': not all control paths return a value
+  grid.vcxproj -> C:\Users\ogn23\source\repos\grid\x64\Debug\grid.exe
