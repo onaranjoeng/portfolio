@@ -1,0 +1,3 @@
+﻿  house.cpp
+C:\Users\ogn23\source\repos\house\house\house.cpp(160,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  house.vcxproj -> C:\Users\ogn23\source\repos\house\Debug\house.exe
