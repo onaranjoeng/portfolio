@@ -1,0 +1,7 @@
+﻿  mixed.cpp
+C:\Users\ogn23\source\repos\mixed\mixed\mixed.h(47,7): warning C4101: 'space': unreferenced local variable
+C:\Users\ogn23\source\repos\mixed\mixed\mixed.h(288,109): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ogn23\source\repos\mixed\mixed\mixed.h(291,110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ogn23\source\repos\mixed\mixed\mixed.cpp(18,10): warning C4101: 'answer': unreferenced local variable
+C:\Users\ogn23\source\repos\mixed\mixed\mixed.h(79): warning C4715: 'operator<<': not all control paths return a value
+  mixed.vcxproj -> C:\Users\ogn23\source\repos\mixed\x64\Debug\mixed.exe
