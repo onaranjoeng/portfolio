@@ -1,0 +1,14 @@
+﻿  mystring.cpp
+C:\Users\ogn23\source\repos\mystring2\mystring2\mystring.cpp(173,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ogn23\source\repos\mystring2\mystring2\mystring.cpp(261,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ogn23\source\repos\mystring2\mystring2\mystring.cpp(270,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ogn23\source\repos\mystring2\mystring2\mystring.cpp(285,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ogn23\source\repos\mystring2\mystring2\mystring.cpp(294,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ogn23\source\repos\mystring2\mystring2\mystring.cpp(298,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ogn23\source\repos\mystring2\mystring2\mystring.cpp(394,22): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ogn23\source\repos\mystring2\mystring2\mystring.cpp(400,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ogn23\source\repos\mystring2\mystring2\mystring.cpp(375): warning C4715: 'MyString::indexOf': not all control paths return a value
+mystring.obj : error LNK2019: unresolved external symbol "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl getline(class std::basic_istream<char,struct std::char_traits<char> > &,class MyString &)" (?getline@@YAAAV?$basic_istream@DU?$char_traits@D@std@@@std@@AAV12@AAVMyString@@@Z) referenced in function _main
+    Hint on symbols that are defined and could potentially match:
+      "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl getline(class std::basic_istream<char,struct std::char_traits<char> > &,class MyString &,char)" (?getline@@YAAAV?$basic_istream@DU?$char_traits@D@std@@@std@@AAV12@AAVMyString@@D@Z)
+C:\Users\ogn23\source\repos\mystring2\Debug\mystring2.exe : fatal error LNK1120: 1 unresolved externals

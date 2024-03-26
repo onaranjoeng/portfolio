@@ -1,0 +1,11 @@
+﻿  mystring.cpp
+C:\Users\ogn23\source\repos\mystring2\mystring2\mystring.h(79,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ogn23\source\repos\mystring2\mystring2\mystring.h(172,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ogn23\source\repos\mystring2\mystring2\mystring.h(181,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ogn23\source\repos\mystring2\mystring2\mystring.h(196,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ogn23\source\repos\mystring2\mystring2\mystring.h(205,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ogn23\source\repos\mystring2\mystring2\mystring.h(209,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ogn23\source\repos\mystring2\mystring2\mystring.h(305,22): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ogn23\source\repos\mystring2\mystring2\mystring.h(311,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ogn23\source\repos\mystring2\mystring2\mystring.h(286): warning C4715: 'MyString::indexOf': not all control paths return a value
+  mystring2.vcxproj -> C:\Users\ogn23\source\repos\mystring2\x64\Debug\mystring2.exe
