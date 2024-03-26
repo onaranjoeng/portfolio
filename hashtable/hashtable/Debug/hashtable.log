@@ -1,0 +1,10 @@
+﻿  passserver.cpp
+C:\Users\ogn23\source\repos\hashtable\hashtable\hashtable.hpp(193,25): error C2039: 'first': is not a member of 'std::list<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::string>,std::allocator<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::string>>>'
+C:\Users\ogn23\source\repos\hashtable\hashtable\hashtable.h(49): message : see declaration of 'std::list<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::string>,std::allocator<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::string>>>'
+C:\Users\ogn23\source\repos\hashtable\hashtable\hashtable.hpp(185): message : while compiling class template member function 'void HashTable<std::string,std::string>::dump(void)'
+C:\Users\ogn23\source\repos\hashtable\hashtable\passserver.cpp(80): message : see reference to function template instantiation 'void HashTable<std::string,std::string>::dump(void)' being compiled
+C:\Users\ogn23\source\repos\hashtable\hashtable\passserver.h(15): message : see reference to class template instantiation 'HashTable<std::string,std::string>' being compiled
+C:\Users\ogn23\source\repos\hashtable\hashtable\hashtable.hpp(193,49): error C2039: 'second': is not a member of 'std::list<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::string>,std::allocator<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::string>>>'
+C:\Users\ogn23\source\repos\hashtable\hashtable\hashtable.h(49): message : see declaration of 'std::list<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::string>,std::allocator<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::string>>>'
+  proj6.cpp
+  Generating Code...
